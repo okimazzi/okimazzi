@@ -116,7 +116,6 @@ I'm at the beginning of my data science journey and excited to:
 - 💡 Share the excitement of learning
 
 Let's connect and grow together:
-- 📧 [Your email]
 - 💡 Open to learning opportunities
 - 🤝 Excited to meet fellow data enthusiasts
 
