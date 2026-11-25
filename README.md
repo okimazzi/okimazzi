@@ -23,8 +23,8 @@ I'm building my way into **cybersecurity**: in **2027** I start a **Bachelor's i
 ### `$ ls ~/toolbox`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,sqlite,html,css,js,linux,bash,git,github,vscode,gcp,figma&theme=dark">
-  <img src="https://skillicons.dev/icons?i=python,c,sqlite,html,css,js,linux,bash,git,github,vscode,gcp,figma&theme=light" alt="Python, C, SQLite, HTML, CSS, JavaScript, Linux, Bash, Git, GitHub, VS Code, Google Cloud, Figma">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cc%2Csqlite%2Chtml%2Ccss%2Cjs%2Clinux%2Cbash%2Cgit%2Cgithub%2Cvscode%2Cgcp%2Cfigma&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python%2Cc%2Csqlite%2Chtml%2Ccss%2Cjs%2Clinux%2Cbash%2Cgit%2Cgithub%2Cvscode%2Cgcp%2Cfigma&theme=light" alt="Python, C, SQLite, HTML, CSS, JavaScript, Linux, Bash, Git, GitHub, VS Code, Google Cloud, Figma">
 </picture>
 
 ### `$ cat mission.log`
