@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/okimazzi"><img src="./assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:kaiolukas.mazziero@gmail.com"><img src="./assets/btn-email.svg" height="40" alt="Email"></a>
+  <a href="mailto:kaiolukas.mazziero@gmail.com"><img src="./assets/btn-email.svg" height="40" alt="Email"></a>&nbsp;
+  <a href="https://tryhackme.com/p/kaio.mazziero"><img src="./assets/btn-tryhackme.svg" height="40" alt="TryHackMe"></a>
 </p>
 
 ### `$ whoami`
@@ -15,6 +16,7 @@ I'm building my way into **cybersecurity**: in **2027** I start a **Bachelor's i
 
 ### `$ cat now-learning.md`
 
+- 🛡️ **[TryHackMe](https://tryhackme.com/p/kaio.mazziero)** — hands-on security labs
 - 🎓 **Harvard CS50** — CS50x, Python, SQL, Web and AI
 - 🧭 **OSSU** — open-source, self-paced Computer Science curriculum
 - ☁️ **Google Cloud Skills Boost** — cloud fundamentals
@@ -33,6 +35,7 @@ I'm building my way into **cybersecurity**: in **2027** I start a **Bachelor's i
 
 - [x] Operations at Hostinger
 - [x] Self-studying Computer Science (CS50 · OSSU)
+- [x] Started hands-on security labs on TryHackMe
 - [ ] 2027 — Start Computer Science at FAM
 - [ ] Ship and document my first projects here
 - [ ] Specialize in cybersecurity 🔐
