@@ -16,11 +16,12 @@ I'm building my way into **cybersecurity**: in **2027** I start a **Bachelor's i
 
 ### `$ cat now-learning.md`
 
-- 🛡️ **[TryHackMe](https://tryhackme.com/p/kaio.mazziero)** — hands-on security labs
-- 🎓 **Harvard CS50** — CS50x, Python, SQL, Web and AI
-- 🧭 **OSSU** — open-source, self-paced Computer Science curriculum
-- ☁️ **Google Cloud Skills Boost** — cloud fundamentals
-- 🌐 **curso.dev** — how web apps work end to end, the groundwork for web security
+| | Where | What |
+|:-:|---|---|
+| 🎓 | **FAM** — Computer Science | Bachelor's degree, starting 2027 |
+| 📚 | **[Harvard CS50](https://cs50.harvard.edu/cybersecurity/)** | Cybersecurity, plus Python, Web and SQL |
+| 🛡️ | **[TryHackMe](https://tryhackme.com/p/kaio.mazziero)** | Hands-on security labs |
+| ☁️ | **Google Cloud Skills Boost** | Cloud fundamentals |
 
 ### `$ ls ~/toolbox`
 
@@ -34,7 +35,7 @@ I'm building my way into **cybersecurity**: in **2027** I start a **Bachelor's i
 ### `$ cat mission.log`
 
 - [x] Operations at Hostinger
-- [x] Self-studying Computer Science (CS50 · OSSU)
+- [x] Self-studying with Harvard CS50
 - [x] Started hands-on security labs on TryHackMe
 - [ ] 2027 — Start Computer Science at FAM
 - [ ] Ship and document my first projects here
