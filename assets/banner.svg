@@ -169,7 +169,7 @@
     <text x="64" y="104" class="mono" font-size="19"><tspan fill="#3FB950">$</tspan><tspan fill="#C9D1D9"> whoami</tspan></text>
     <text x="62" y="166" class="mono" font-size="56" font-weight="700" fill="#F0F6FC" letter-spacing="-1">Kaio Lukas</text>
     <text x="64" y="208" class="mono" font-size="19" fill="#8B949E">Operations @ Hostinger  ·  Computer Science  ·  Security</text>
-    <text x="64" y="262" class="mono" font-size="19"><tspan fill="#3FB950">$</tspan><tspan fill="#C9D1D9"> ./explore --security --design</tspan><tspan class="cur" fill="#3FB950"> ▋</tspan></text>
+    <text x="64" y="262" class="mono" font-size="19"><tspan fill="#3FB950">$</tspan><tspan fill="#C9D1D9"> ./explore --security --infra</tspan><tspan class="cur" fill="#3FB950"> ▋</tspan></text>
 
     <!-- status bar -->
     <rect y="330" width="1200" height="30" fill="#161B22" fill-opacity="0.92"/>
