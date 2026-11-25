@@ -11,21 +11,23 @@
 
 Hi, I'm **Kaio** 👋 — I work in **operations at [Hostinger](https://www.hostinger.com)**, which keeps me close to the infrastructure that runs the web every day.
 
-I'm building my way into **cybersecurity**: in **2027** I start a **Bachelor's in Computer Science at FAM**, and until then I'm studying on my own. I also have a creative side — I care about design and about how things look and feel, not only how they work.
+I'm building my way into **cybersecurity**: in **2027** I start a **Bachelor's in Computer Science at FAM**, and until then I'm studying on my own. Working with real infrastructure every day, I want to learn how to defend it.
 
 ### `$ cat now-learning.md`
 
 - 🎓 **Harvard CS50** — CS50x, Python, SQL, Web and AI
 - 🧭 **OSSU** — open-source, self-paced Computer Science curriculum
-- ☁️ **Google Cloud Skills Boost**
-- 🌐 **Origamid** & **curso.dev** — web development
+- ☁️ **Google Cloud Skills Boost** — cloud fundamentals
+- 🌐 **curso.dev** — how web apps work end to end, the groundwork for web security
 
 ### `$ ls ~/toolbox`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cc%2Csqlite%2Chtml%2Ccss%2Cjs%2Clinux%2Cbash%2Cgit%2Cgithub%2Cvscode%2Cgcp%2Cfigma&theme=dark">
-  <img src="https://skillicons.dev/icons?i=python%2Cc%2Csqlite%2Chtml%2Ccss%2Cjs%2Clinux%2Cbash%2Cgit%2Cgithub%2Cvscode%2Cgcp%2Cfigma&theme=light" alt="Python, C, SQLite, HTML, CSS, JavaScript, Linux, Bash, Git, GitHub, VS Code, Google Cloud, Figma">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cbash%2Cc%2Csqlite%2Cjs%2Clinux%2Cgit%2Cgcp&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python%2Cbash%2Cc%2Csqlite%2Cjs%2Clinux%2Cgit%2Cgcp&theme=light" alt="Python, Bash, C, SQLite, JavaScript, Linux, Git, Google Cloud">
 </picture>
+
+<sub>Python & Bash for scripting and automation · C for low-level and memory · SQL & JavaScript to understand injection and XSS · Linux, Git & Google Cloud for systems and cloud</sub>
 
 ### `$ cat mission.log`
 
